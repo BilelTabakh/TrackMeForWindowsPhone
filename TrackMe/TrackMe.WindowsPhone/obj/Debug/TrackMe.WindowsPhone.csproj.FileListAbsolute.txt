@@ -1,0 +1,708 @@
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\App.g.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\LiveTileFour.g.i.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\LiveTileFour.g.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\App.xaml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\LiveTileFour.xaml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\App.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\LiveTileFour.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MainPage.xaml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MainPage.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\App.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\LiveTileFour.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\MainPage.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\TrackMe.WindowsPhone.xr.xml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\TrackMe.WindowsPhone.exe
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\TrackMe.WindowsPhone.pdb
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\resources.pri
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\TrackMe.WindowsPhone.build.appxrecipe
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\TrackMe.WindowsPhone.exe
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\TrackMe.WindowsPhone.pdb
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\priconfig.xml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\layout.resfiles
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\resources.resfiles
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\pri.resfiles
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\qualifiers.txt
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\HomeTile.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\HomeTile.g.i.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\HomeTile.g.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\HomeTile.xaml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\HomeTile.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\SeanceTile.g.i.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\SeanceTile.g.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PlanningTile.g.i.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PlanningTile.g.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\StatsTile.g.i.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\StatsTile.g.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PopmesTile.g.i.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PopmesTile.g.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\InfosTile.g.i.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\InfosTile.g.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\AboutTile.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\PopmesTile.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\InfosTile.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\PlanningTile.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\SeanceTile.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\StatsTile.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\AboutTile.g.i.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\AboutTile.g.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\AboutTile.xaml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PopmesTile.xaml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\InfosTile.xaml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PlanningTile.xaml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\SeanceTile.xaml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\StatsTile.xaml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\AboutTile.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PopmesTile.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\InfosTile.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PlanningTile.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\SeanceTile.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\StatsTile.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\AboutPage.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\HomePage.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\InfosPage.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\PlanningPage.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\PompesPage.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\SeancePage.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\StatsPage.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\AboutPage.g.i.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\AboutPage.g.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\HomePage.g.i.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\HomePage.g.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\InfosPage.g.i.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\InfosPage.g.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PlanningPage.g.i.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PlanningPage.g.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PompesPage.g.i.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PompesPage.g.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\SeancePage.g.i.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\SeancePage.g.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StatsPage.g.i.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StatsPage.g.cs
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\AboutPage.xaml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\HomePage.xaml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\InfosPage.xaml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PlanningPage.xaml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PompesPage.xaml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\SeancePage.xaml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StatsPage.xaml
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\AboutPage.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\HomePage.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\InfosPage.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PlanningPage.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PompesPage.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\SeancePage.xbf
+D:\Develop\Windows Phone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StatsPage.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\AboutPage.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\AboutTile.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\PopmesTile.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\InfosTile.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\LiveTileFour.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\HomeTile.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\PlanningTile.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\SeanceTile.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\StatsTile.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\HomePage.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\InfosPage.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\ListSeance.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\PlanningPage.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\PompesPage.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\SeancePage.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\StatsPage.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\TrackMe.WindowsPhone.xr.xml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\TrackMe.WindowsPhone.exe
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\TrackMe.WindowsPhone.pdb
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\TrackMe.WindowsPhone.build.appxrecipe
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\AboutPage.g.i.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\AboutPage.g.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\AboutTile.g.i.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\AboutTile.g.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PopmesTile.g.i.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PopmesTile.g.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\InfosTile.g.i.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\InfosTile.g.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\LiveTileFour.g.i.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\LiveTileFour.g.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\HomeTile.g.i.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\HomeTile.g.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PlanningTile.g.i.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PlanningTile.g.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\SeanceTile.g.i.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\SeanceTile.g.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\StatsTile.g.i.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\StatsTile.g.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\HomePage.g.i.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\HomePage.g.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\InfosPage.g.i.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\InfosPage.g.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListSeance.g.i.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListSeance.g.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PlanningPage.g.i.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PlanningPage.g.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PompesPage.g.i.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PompesPage.g.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\SeancePage.g.i.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\SeancePage.g.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StatsPage.g.i.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StatsPage.g.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\AboutPage.xaml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\AboutTile.xaml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PopmesTile.xaml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\InfosTile.xaml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\LiveTileFour.xaml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\HomeTile.xaml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PlanningTile.xaml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\SeanceTile.xaml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\StatsTile.xaml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\HomePage.xaml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListSeance.xaml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PlanningPage.xaml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PompesPage.xaml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StatsPage.xaml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\AboutPage.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\AboutTile.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PopmesTile.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\InfosTile.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\LiveTileFour.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\HomeTile.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PlanningTile.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\SeanceTile.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\StatsTile.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\HomePage.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListSeance.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PlanningPage.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PompesPage.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StatsPage.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\InfosPage.xaml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\SeancePage.xaml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\InfosPage.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\SeancePage.xbf
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\TrackMe.WindowsPhone.exe
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\TrackMe.WindowsPhone.pdb
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Bilel\Downloads\Compressed\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\CustomSplashScreen.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\AboutPage.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\CalendarPage.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\AboutTile.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\PopmesTile.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\InfosTile.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\LiveTileFour.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\HomeTile.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\PlanningTile.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\SeanceTile.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\StatsTile.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\DetailCalendrier.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\InfosPage.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\ListSeance.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\ListMusicPage.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\MusicPage.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\PushUpsPage.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\ReminderPage.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\SeancePage.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\StatsPage.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\StepCounter.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\TrackMe.WindowsPhone.xr.xml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\TrackMe.WindowsPhone.exe
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\TrackMe.WindowsPhone.pdb
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\TrackMe.WindowsPhone.build.appxrecipe
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\WinRTXamlToolkit.Controls.DataVisualization.dll
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\WinRTXamlToolkit.Controls.Gauge.dll
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\WinRTXamlToolkit.dll
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\WinRTXamlToolkit.pri
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\WinRTXamlToolkit.Controls.Gauge.pri
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\AboutPage.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\AboutPage.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CalendarPage.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CalendarPage.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\AboutTile.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\AboutTile.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PopmesTile.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PopmesTile.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\InfosTile.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\InfosTile.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\LiveTileFour.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\LiveTileFour.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\HomeTile.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\HomeTile.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PlanningTile.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PlanningTile.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\SeanceTile.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\SeanceTile.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\StatsTile.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\StatsTile.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\DetailCalendrier.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\DetailCalendrier.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\InfosPage.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\InfosPage.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListSeance.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListSeance.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListMusicPage.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListMusicPage.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MusicPage.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MusicPage.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PushUpsPage.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PushUpsPage.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ReminderPage.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ReminderPage.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\SeancePage.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\SeancePage.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StatsPage.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StatsPage.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StepCounter.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StepCounter.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CustomSplashScreen.g.i.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CustomSplashScreen.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\AboutPage.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CalendarPage.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\AboutTile.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PopmesTile.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\InfosTile.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\LiveTileFour.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\HomeTile.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PlanningTile.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\SeanceTile.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\StatsTile.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\DetailCalendrier.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\InfosPage.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListSeance.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListMusicPage.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MusicPage.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PushUpsPage.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ReminderPage.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\SeancePage.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StatsPage.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StepCounter.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CustomSplashScreen.xaml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\AboutPage.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CalendarPage.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\AboutTile.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PopmesTile.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\InfosTile.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\LiveTileFour.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\HomeTile.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PlanningTile.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\SeanceTile.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\StatsTile.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\DetailCalendrier.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\InfosPage.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListSeance.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListMusicPage.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MusicPage.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PushUpsPage.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ReminderPage.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\SeancePage.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StatsPage.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StepCounter.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CustomSplashScreen.xbf
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\TrackMe.WindowsPhone.exe
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\TrackMe.WindowsPhone.pdb
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\en-US\WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources.resw
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\TrackMe.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\qualifiers.txt
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.pri.xml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri.xml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.Gauge.pri.xml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\TrackMe.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\layout.resfiles
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\layout.resfiles.intermediate
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\Resources.resfiles
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\Resources.resfiles.intermediate
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\pri.resfiles
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\pri.resfiles.intermediate
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\priconfig.xml
+C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\priconfig.xml.intermediate
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\App.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\CustomSplashScreen.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\AboutPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\CalendarPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\AboutTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\PopmesTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\InfosTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\LiveTileFour.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\HomeTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\PlanningTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\SeanceTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\StatsTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\DetailCalendrier.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\InfosPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\ListSeance.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\MainPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\ListMusicPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\MusicPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\PushUpsPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\ReminderPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\SeancePage.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\StatsPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\StepCounter.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\TrackMe.WindowsPhone.xr.xml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\TrackMe.WindowsPhone.exe
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\TrackMe.WindowsPhone.pdb
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\resources.pri
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\TrackMe.WindowsPhone.build.appxrecipe
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\WinRTXamlToolkit.Controls.DataVisualization.dll
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\WinRTXamlToolkit.Controls.Gauge.dll
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\WinRTXamlToolkit.dll
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\WinRTXamlToolkit.pri
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\WinRTXamlToolkit.Controls.Gauge.pri
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\TrackMe.WindowsPhone.csprojResolveAssemblyReference.cache
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\App.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\AboutPage.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\AboutPage.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CalendarPage.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CalendarPage.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\AboutTile.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\AboutTile.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PopmesTile.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PopmesTile.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\InfosTile.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\InfosTile.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\LiveTileFour.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\LiveTileFour.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\HomeTile.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\HomeTile.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PlanningTile.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PlanningTile.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\SeanceTile.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\SeanceTile.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\StatsTile.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\StatsTile.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\DetailCalendrier.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\DetailCalendrier.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\InfosPage.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\InfosPage.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListSeance.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListSeance.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListMusicPage.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListMusicPage.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MusicPage.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MusicPage.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PushUpsPage.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PushUpsPage.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ReminderPage.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ReminderPage.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\SeancePage.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\SeancePage.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StatsPage.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StatsPage.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StepCounter.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StepCounter.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CustomSplashScreen.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CustomSplashScreen.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\App.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\AboutPage.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CalendarPage.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\AboutTile.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PopmesTile.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\InfosTile.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\LiveTileFour.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\HomeTile.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PlanningTile.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\SeanceTile.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\StatsTile.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\DetailCalendrier.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\InfosPage.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListSeance.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MainPage.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListMusicPage.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MusicPage.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PushUpsPage.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ReminderPage.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\SeancePage.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StatsPage.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StepCounter.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CustomSplashScreen.xaml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\App.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\AboutPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CalendarPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\AboutTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PopmesTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\InfosTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\LiveTileFour.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\HomeTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PlanningTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\SeanceTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\StatsTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\DetailCalendrier.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\InfosPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListSeance.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MainPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListMusicPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MusicPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PushUpsPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ReminderPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\SeancePage.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StatsPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StepCounter.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CustomSplashScreen.xbf
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\TrackMe.WindowsPhone.exe
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\TrackMe.WindowsPhone.pdb
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\en-US\WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources.resw
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\TrackMe.WindowsPhone.csproj.GenerateResource.Cache
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\layout.resfiles
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\layout.resfiles.intermediate
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\Resources.resfiles
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\Resources.resfiles.intermediate
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\pri.resfiles
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\pri.resfiles.intermediate
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\priconfig.xml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\priconfig.xml.intermediate
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\qualifiers.txt
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\priconfig.xml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\layout.resfiles
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\resources.resfiles
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\pri.resfiles
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\qualifiers.txt
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.pri.xml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri.xml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.Gauge.pri.xml
+D:\Esprit\4SIM2\WindowsPhone\Windows Phone Final\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\App.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\CustomSplashScreen.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\AboutPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\CalendarPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\AboutTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\PopmesTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\InfosTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\LiveTileFour.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\HomeTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\PlanningTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\SeanceTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Custom\StatsTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\DetailCalendrier.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\InfosPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\ListSeance.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\MainPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\ListMusicPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\MusicPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\PushUpsPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\ReminderPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\SeancePage.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\StatsPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\StepBand.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\StepCounter.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\TrackMe.WindowsPhone.xr.xml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\TrackMe.WindowsPhone.exe
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\TrackMe.WindowsPhone.pdb
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\resources.pri
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\TrackMe.WindowsPhone.build.appxrecipe
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Microsoft.Band.dll
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Microsoft.Band.Phone.dll
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Microsoft.Band.Store.dll
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\WinRTXamlToolkit.Controls.DataVisualization.dll
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\WinRTXamlToolkit.Controls.Gauge.dll
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\WinRTXamlToolkit.dll
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Microsoft.Band.Phone.pri
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\Microsoft.Band.Store.pri
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\WinRTXamlToolkit.pri
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\bin\Debug\WinRTXamlToolkit.Controls.Gauge.pri
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\TrackMe.WindowsPhone.csprojResolveAssemblyReference.cache
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\App.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\AboutPage.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\AboutPage.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CalendarPage.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CalendarPage.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\AboutTile.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\AboutTile.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PopmesTile.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PopmesTile.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\InfosTile.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\InfosTile.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\LiveTileFour.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\LiveTileFour.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\HomeTile.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\HomeTile.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PlanningTile.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PlanningTile.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\SeanceTile.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\SeanceTile.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\StatsTile.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\StatsTile.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\DetailCalendrier.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\DetailCalendrier.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\InfosPage.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\InfosPage.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListSeance.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListSeance.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListMusicPage.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListMusicPage.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MusicPage.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MusicPage.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PushUpsPage.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PushUpsPage.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ReminderPage.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ReminderPage.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\SeancePage.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\SeancePage.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StatsPage.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StatsPage.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StepBand.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StepBand.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StepCounter.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StepCounter.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CustomSplashScreen.g.i.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CustomSplashScreen.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\App.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\AboutPage.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CalendarPage.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\AboutTile.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PopmesTile.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\InfosTile.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\LiveTileFour.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\HomeTile.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PlanningTile.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\SeanceTile.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\StatsTile.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\DetailCalendrier.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\InfosPage.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListSeance.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MainPage.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListMusicPage.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MusicPage.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PushUpsPage.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ReminderPage.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\SeancePage.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StatsPage.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StepBand.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CustomSplashScreen.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\App.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\AboutPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CalendarPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\AboutTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PopmesTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\InfosTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\LiveTileFour.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\HomeTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\PlanningTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\SeanceTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Custom\StatsTile.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\DetailCalendrier.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\InfosPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListSeance.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MainPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ListMusicPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MusicPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\PushUpsPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ReminderPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\SeancePage.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StatsPage.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StepBand.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\CustomSplashScreen.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StepCounter.xaml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\StepCounter.xbf
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\TrackMe.WindowsPhone.exe
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\TrackMe.WindowsPhone.pdb
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\en-US\WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources.resw
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\TrackMe.WindowsPhone.csproj.GenerateResource.Cache
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\qualifiers.txt
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\priconfig.xml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\layout.resfiles
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\resources.resfiles
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\pri.resfiles
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\qualifiers.txt
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Microsoft.Band.Phone.pri.xml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\Microsoft.Band.Store.pri.xml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.pri.xml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri.xml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.Gauge.pri.xml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\layout.resfiles
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\layout.resfiles.intermediate
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\Resources.resfiles
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\Resources.resfiles.intermediate
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\pri.resfiles
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\pri.resfiles.intermediate
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\priconfig.xml
+D:\Esprit\4SIM2\WindowsPhone\TrackMe\TrackMe\TrackMe.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\priconfig.xml.intermediate

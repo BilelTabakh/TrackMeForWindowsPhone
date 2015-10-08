@@ -1,0 +1,28 @@
+﻿<Page
+    x:Class="TrackMe.DetailCalendrier"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TrackMe"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#f2f2f2">
+        <TextBlock Foreground="#74bc00" HorizontalAlignment="Left" Margin="121,27,0,0" TextWrapping="Wrap" Text="Details" VerticalAlignment="Top" FontSize="50" FontWeight="Bold"/>
+        <Grid Margin="25,215,25,343" Background="#74bc00">
+            <Image HorizontalAlignment="Left" Height="112" Margin="-12,-17,0,-13" VerticalAlignment="Top" Width="121" Source="Assets/ic_clock.png"/>
+            <TextBlock Name="txtTime" HorizontalAlignment="Left" Margin="85,25,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" FontSize="30" Width="255"/>
+        </Grid>
+
+
+        <Grid Margin="25,113,25,445" Background="#1ba1e2">
+            <Image HorizontalAlignment="Left" Height="112" Margin="-12,-17,0,-13" VerticalAlignment="Top" Width="121" Source="Assets/ic_day.png"/>
+            <TextBlock Name="txtDat" HorizontalAlignment="Left" Margin="85,25,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" FontSize="30" Width="255"/>
+        </Grid>
+        <Grid Margin="25,317,25,23" Background="#1ba1e2">
+            <Image HorizontalAlignment="Left" Height="112" Margin="-12,-17,0,-13" VerticalAlignment="Top" Width="121" Source="Assets/ic_comment.png"/>
+            <TextBlock Name="txtComm" HorizontalAlignment="Left" Margin="10,83,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" FontSize="30" Width="330" Height="207"/>
+        </Grid>
+    </Grid>
+</Page>

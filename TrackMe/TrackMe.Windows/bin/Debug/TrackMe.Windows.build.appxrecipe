@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BILEL-PC</Machine>
+    <WindowsUser>Bilel</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>07312fe9-2a55-45b7-a83a-53bc5167ca6c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\TrackMe.Windows.exe">
+      <PackagePath>TrackMe.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_about.png">
+      <PackagePath>Assets\ic_about.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_calories.png">
+      <PackagePath>Assets\ic_calories.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_description.png">
+      <PackagePath>Assets\ic_description.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_distance.png">
+      <PackagePath>Assets\ic_distance.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_duree.png">
+      <PackagePath>Assets\ic_duree.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_height.png">
+      <PackagePath>Assets\ic_height.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_home.png">
+      <PackagePath>Assets\ic_home.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_imc.png">
+      <PackagePath>Assets\ic_imc.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_infos.png">
+      <PackagePath>Assets\ic_infos.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_listStat.png">
+      <PackagePath>Assets\ic_listStat.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_planning.png">
+      <PackagePath>Assets\ic_planning.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_pompes.png">
+      <PackagePath>Assets\ic_pompes.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_pompes_home_page.png">
+      <PackagePath>Assets\ic_pompes_home_page.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_seance.png">
+      <PackagePath>Assets\ic_seance.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_size.png">
+      <PackagePath>Assets\ic_size.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_start.png">
+      <PackagePath>Assets\ic_start.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_stats.png">
+      <PackagePath>Assets\ic_stats.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_stop.png">
+      <PackagePath>Assets\ic_stop.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_title_home_trackme.png">
+      <PackagePath>Assets\ic_title_home_trackme.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_title_home_trackmesplash.png">
+      <PackagePath>Assets\ic_title_home_trackmesplash.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_vitesse.png">
+      <PackagePath>Assets\ic_vitesse.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\test_map.PNG">
+      <PackagePath>Assets\test_map.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\CustomSplashScreen.xbf">
+      <PackagePath>CustomSplashScreen.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\AboutPage.xbf">
+      <PackagePath>AboutPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\Custom\AboutTile.xbf">
+      <PackagePath>Custom\AboutTile.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\Custom\HomeTile.xbf">
+      <PackagePath>Custom\HomeTile.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\Custom\InfosTile.xbf">
+      <PackagePath>Custom\InfosTile.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\Custom\LiveTileFour.xbf">
+      <PackagePath>Custom\LiveTileFour.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\Custom\PlanningTile.xbf">
+      <PackagePath>Custom\PlanningTile.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\Custom\PopmesTile.xbf">
+      <PackagePath>Custom\PopmesTile.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\Custom\SeanceTile.xbf">
+      <PackagePath>Custom\SeanceTile.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\Custom\StatsTile.xbf">
+      <PackagePath>Custom\StatsTile.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\HomePage.xbf">
+      <PackagePath>HomePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\InfosPage.xbf">
+      <PackagePath>InfosPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\PlanningPage.xbf">
+      <PackagePath>PlanningPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\PompesPage.xbf">
+      <PackagePath>PompesPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\SeancePage.xbf">
+      <PackagePath>SeancePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\StatsPage.xbf">
+      <PackagePath>StatsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\TrackMe.Windows.xr.xml">
+      <PackagePath>TrackMe.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

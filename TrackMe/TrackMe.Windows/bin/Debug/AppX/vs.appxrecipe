@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BILEL-PC</Machine>
+    <WindowsUser>Bilel</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>07312fe9-2a55-45b7-a83a-53bc5167ca6c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>1801DAB4D99923EF74A54559B0F6BA2C88B050203C7E065741F7574B85B86118</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>07312fe9-2a55-45b7-a83a-53bc5167ca6c_1.0.0.0_neutral__ctz3bdhh32sze</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>07312fe9-2a55-45b7-a83a-53bc5167ca6c_ctz3bdhh32sze!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>07312fe9-2a55-45b7-a83a-53bc5167ca6c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=TrabelsiAchraf</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-14T21:58:35.819</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\TrackMe.Windows.exe">
+      <PackagePath>TrackMe.Windows.exe</PackagePath>
+      <Modified>2015-04-14T21:58:35.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_about.png">
+      <PackagePath>Assets\ic_about.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.354</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_calories.png">
+      <PackagePath>Assets\ic_calories.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_description.png">
+      <PackagePath>Assets\ic_description.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.393</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_distance.png">
+      <PackagePath>Assets\ic_distance.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_duree.png">
+      <PackagePath>Assets\ic_duree.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.446</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_height.png">
+      <PackagePath>Assets\ic_height.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_home.png">
+      <PackagePath>Assets\ic_home.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_imc.png">
+      <PackagePath>Assets\ic_imc.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.483</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_infos.png">
+      <PackagePath>Assets\ic_infos.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_listStat.png">
+      <PackagePath>Assets\ic_listStat.png</PackagePath>
+      <Modified>2015-04-01T03:35:03.847</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_planning.png">
+      <PackagePath>Assets\ic_planning.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.487</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_pompes.png">
+      <PackagePath>Assets\ic_pompes.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_pompes_home_page.png">
+      <PackagePath>Assets\ic_pompes_home_page.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_seance.png">
+      <PackagePath>Assets\ic_seance.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_size.png">
+      <PackagePath>Assets\ic_size.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_start.png">
+      <PackagePath>Assets\ic_start.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.505</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_stats.png">
+      <PackagePath>Assets\ic_stats.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_stop.png">
+      <PackagePath>Assets\ic_stop.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_title_home_trackme.png">
+      <PackagePath>Assets\ic_title_home_trackme.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_title_home_trackmesplash.png">
+      <PackagePath>Assets\ic_title_home_trackmesplash.png</PackagePath>
+      <Modified>2015-03-28T12:39:07.578</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\ic_vitesse.png">
+      <PackagePath>Assets\ic_vitesse.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.537</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.539</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.542</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\test_map.PNG">
+      <PackagePath>Assets\test_map.PNG</PackagePath>
+      <Modified>2015-02-04T08:29:52.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <Modified>2015-02-04T08:29:52.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-14T21:58:34.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\CustomSplashScreen.xbf">
+      <PackagePath>CustomSplashScreen.xbf</PackagePath>
+      <Modified>2015-04-14T21:58:35.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\AboutPage.xbf">
+      <PackagePath>AboutPage.xbf</PackagePath>
+      <Modified>2015-04-14T21:58:34.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\Custom\AboutTile.xbf">
+      <PackagePath>Custom\AboutTile.xbf</PackagePath>
+      <Modified>2015-04-14T21:58:34.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\Custom\HomeTile.xbf">
+      <PackagePath>Custom\HomeTile.xbf</PackagePath>
+      <Modified>2015-04-14T21:58:34.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\Custom\InfosTile.xbf">
+      <PackagePath>Custom\InfosTile.xbf</PackagePath>
+      <Modified>2015-04-14T21:58:34.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\Custom\LiveTileFour.xbf">
+      <PackagePath>Custom\LiveTileFour.xbf</PackagePath>
+      <Modified>2015-04-14T21:58:34.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\Custom\PlanningTile.xbf">
+      <PackagePath>Custom\PlanningTile.xbf</PackagePath>
+      <Modified>2015-04-14T21:58:34.957</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\Custom\PopmesTile.xbf">
+      <PackagePath>Custom\PopmesTile.xbf</PackagePath>
+      <Modified>2015-04-14T21:58:34.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\Custom\SeanceTile.xbf">
+      <PackagePath>Custom\SeanceTile.xbf</PackagePath>
+      <Modified>2015-04-14T21:58:34.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\Custom\StatsTile.xbf">
+      <PackagePath>Custom\StatsTile.xbf</PackagePath>
+      <Modified>2015-04-14T21:58:34.981</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\HomePage.xbf">
+      <PackagePath>HomePage.xbf</PackagePath>
+      <Modified>2015-04-14T21:58:34.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\InfosPage.xbf">
+      <PackagePath>InfosPage.xbf</PackagePath>
+      <Modified>2015-04-14T21:58:34.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-14T21:58:34.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\PlanningPage.xbf">
+      <PackagePath>PlanningPage.xbf</PackagePath>
+      <Modified>2015-04-14T21:58:34.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\PompesPage.xbf">
+      <PackagePath>PompesPage.xbf</PackagePath>
+      <Modified>2015-04-14T21:58:34.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\SeancePage.xbf">
+      <PackagePath>SeancePage.xbf</PackagePath>
+      <Modified>2015-04-14T21:58:34.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\StatsPage.xbf">
+      <PackagePath>StatsPage.xbf</PackagePath>
+      <Modified>2015-04-14T21:58:34.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\TrackMe.Windows.xr.xml">
+      <PackagePath>TrackMe.Windows.xr.xml</PackagePath>
+      <Modified>2015-04-08T04:00:28.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bilel\Desktop\TrackMe\TrackMe\TrackMe.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-14T21:58:35.515</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
